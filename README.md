@@ -1,4 +1,4 @@
-# everylog
+# flutter logs demo
 
 A new Flutter project.
 
